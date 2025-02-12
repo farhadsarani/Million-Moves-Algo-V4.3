@@ -1,4 +1,3 @@
-// Telegram Join Us >> https://t.me/secret_solution_YT
 //@version=5
 indicator("Million Moves Algø v4.3",overlay = true,max_labels_count = 500)
 
