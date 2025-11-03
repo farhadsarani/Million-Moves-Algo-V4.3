@@ -695,4 +695,4 @@ if box_ob and barstate.isconfirmed
                 if box_stop_sv
                     box.set_right(lbox, bar_index)
                     box.set_extend(lbox, extend.none)
-                    array.remove(long_boxes, i)
+                    array.remove(long_boxes, i)
